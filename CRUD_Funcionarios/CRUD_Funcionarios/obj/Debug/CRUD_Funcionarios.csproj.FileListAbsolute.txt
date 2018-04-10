@@ -1,0 +1,279 @@
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\ApplicationInsights.config
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.dll.config
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.pdb
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.exe
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.exe.config
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.rsp
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.exe
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.exe.config
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.rsp
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.AppContext.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Console.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.exe
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.exe.config
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.rsp
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Antlr3.Runtime.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\EntityFramework.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Web.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Newtonsoft.Json.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Helpers.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Mvc.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Optimization.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Razor.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Razor.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\WebGrease.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\EntityFramework.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Helpers.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Mvc.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Optimization.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Razor.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Razor.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Antlr3.Runtime.pdb
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Newtonsoft.Json.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Web.xml
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csproj.CopyComplete
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.dll
+C:\Users\Samuel\source\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.pdb
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\ApplicationInsights.config
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.dll.config
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.pdb
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.exe
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.exe.config
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.rsp
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.exe
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.exe.config
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.rsp
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.AppContext.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Console.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.Process.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.Compression.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.Pipes.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.AccessControl.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Claims.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Threading.Thread.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.ValueTuple.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XPath.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.exe
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.exe.config
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.rsp
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\VBCSCompiler.exe
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Antlr3.Runtime.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\EntityFramework.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.DependencyCollector.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Web.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.WindowsServer.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.ApplicationInsights.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.Web.Infrastructure.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Newtonsoft.Json.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Helpers.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Mvc.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Optimization.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Razor.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Deployment.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Razor.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\WebGrease.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\EntityFramework.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Helpers.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Mvc.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Optimization.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Razor.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Deployment.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Razor.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Antlr3.Runtime.pdb
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Newtonsoft.Json.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.ApplicationInsights.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.DependencyCollector.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.WindowsServer.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Web.xml
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csprojResolveAssemblyReference.cache
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csproj.CopyComplete
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.dll
+C:\Downloads\repos\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.pdb
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\ApplicationInsights.config
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.dll.config
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\CRUD_Funcionarios.pdb
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.exe
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.exe.config
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csc.rsp
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.exe
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.exe.config
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\csi.rsp
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.AppContext.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Console.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.Compression.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.IO.Pipes.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.AccessControl.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Claims.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Threading.Thread.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.ValueTuple.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.exe
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.exe.config
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\vbc.rsp
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\VBCSCompiler.exe
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Antlr3.Runtime.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\EntityFramework.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Web.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.WindowsServer.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.ApplicationInsights.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Newtonsoft.Json.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Helpers.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Mvc.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Optimization.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Razor.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Razor.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\WebGrease.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\EntityFramework.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Helpers.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Mvc.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Optimization.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.Razor.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\System.Web.WebPages.Razor.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Antlr3.Runtime.pdb
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Newtonsoft.Json.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.ApplicationInsights.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.WindowsServer.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\bin\Microsoft.AI.Web.xml
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csprojResolveAssemblyReference.cache
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.csproj.CopyComplete
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.dll
+C:\Projetos VS\CRUD_Funcionarios\CRUD_Funcionarios\obj\Debug\CRUD_Funcionarios.pdb
